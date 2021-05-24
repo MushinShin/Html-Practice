@@ -1,5 +1,3 @@
-//Functions - Set of Statments 
-
 //Performing a Task
 function greet(name, lastName) {
     console.log('Hello ' + name + ' ' + lastName);
@@ -13,4 +11,3 @@ function square(number) {
 }
 
 console.log(square(2));
-
