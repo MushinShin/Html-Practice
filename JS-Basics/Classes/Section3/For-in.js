@@ -14,9 +14,7 @@ for (let key in person)
 // //Bracket Notation
 // person['name']
 
-
-// for-of
 const colors = ['red', 'green', 'blue'];
 
-for (let color of colors)
-    console.log(color);
+for (let index in colors)
+    console.log(index, colors[index]);
