@@ -5,5 +5,3 @@ function greet(name, lastName) {
 }
 
 greet('John', "Smith"); //Calling a Function(argument);
-
-
